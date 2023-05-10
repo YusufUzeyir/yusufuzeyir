@@ -3,7 +3,7 @@
 
 - 📫 How to reach me **ys.kaya1400@gmail.com**
 
-<img height="225" align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=YusufUzeyir&langs_count=10&theme=dark&layout=compact" />
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YusufUzeyir&theme=tokyonight)
 
 <h3 align="left">Connect with me:</h3>
 
