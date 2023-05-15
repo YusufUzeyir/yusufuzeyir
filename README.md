@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yusuf Üzeyir</h1>
 <h3 align="center">I'm 21 years old and studying Information Systems Engineering at Kocaeli University.</h3>
+<img height="225" align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=YusufUzeyir&langs_count=10&theme=dark&layout=compact" />
 
 - 📫 How to reach me **ys.kaya1400@gmail.com**
 
