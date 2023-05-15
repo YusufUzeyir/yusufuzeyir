@@ -3,7 +3,8 @@
 
 - 📫 How to reach me **ys.kaya1400@gmail.com**
 - 
-<img height="220" align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=YusufUzeyir&langs_count=10&theme=dark&layout=compact" />   <img height="220" align="left" src="https://github-readme-stats.vercel.app/api?username=YusufUzeyir&show_icons=true&theme=radical" />
+<img height="220" align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=YusufUzeyir&langs_count=10&theme=dark&layout=compact" />  
+<img height="220" align="left" src="https://github-readme-stats.vercel.app/api?username=YusufUzeyir&show_icons=true&theme=radical" />
 
 
 <h3 align="left">Connect with me:</h3>
