@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yusuf Üzeyir</h1>
-<h3 align="center">I'm 21 years old and studying Information Systems Engineering at Kocaeli University.</h3>
+<h3 align="center">I'm 22 years old and studying Information Systems Engineering at Kocaeli University.</h3>
 
 - 📫 How to reach me **ys.kaya1400@gmail.com**
  
